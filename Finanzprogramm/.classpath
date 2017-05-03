@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Quirin/Desktop/Eigene_Projekte/Externe jars/sqlite-jdbc-3.8.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Quirin/Desktop/Eigene_Projekte/Externe jars/joda-time-2.4/joda-time-2.4.jar" sourcepath="C:/Users/Quirin/Desktop/Eigene_Projekte/Externe jars/joda-time-2.4/joda-time-2.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Quirin/Desktop/Eigene_Projekte/Externe jars/controlsfx-8.40.12/controlsfx-8.40.12.jar" sourcepath="C:/Users/Quirin/Desktop/Eigene_Projekte/Externe jars/controlsfx-8.40.12/java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
